@@ -1,4 +1,4 @@
-# GenPulse: Your Ultimate Tool For Crafting Secure Passwords Effortlessly! 🔒✨
+# GenPulse: Crafting Secure Passwords Effortlessly! 🔒✨
 
 GenPulse isn't just another password generator – it's your personal fortress builder in the digital realm! This Chrome extension showcases a symphony of front-end wizardry and security prowess.
 
