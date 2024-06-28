@@ -1,6 +1,6 @@
 # GenPulse: Crafting Secure Passwords Effortlessly! 🔒✨
 
-GenPulse isn't just another password generator – it's your personal fortress builder in the digital realm! This Chrome extension showcases a symphony of front-end wizardry and security prowess.
+GenPulse is a Chrome extension built with HTML5, CSS3, and JavaScript, showcasing skills in front-end development, UI/UX design, and browser extension creation.  This Chrome extension showcases a symphony of front-end wizardry and security prowess.
 
 ## 🛠️ Tech Arsenal
 - HTML5 | CSS3 | JavaScript (ES6+) | Chrome Extension API
